@@ -26,3 +26,12 @@ We just need to ask the question and click of Get Answer and the UI provides:
 1.Answer displayed clearly
 2.Source file names
 
+Following are the screenshots :
+
+![Image Alt](https://github.com/kdeshmukh31-ux/RAG_Project_Kshitij/blob/main/image_2.png?raw=true
+)
+
+![Image Alt](https://github.com/kdeshmukh31-ux/RAG_Project_Kshitij/blob/main/image_3.png?raw=true
+)
+
+![Image Alt](https://github.com/kdeshmukh31-ux/RAG_Project_Kshitij/blob/main/Image_1.png?raw=true)
